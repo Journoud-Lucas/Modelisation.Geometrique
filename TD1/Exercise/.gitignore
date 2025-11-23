@@ -44,6 +44,7 @@ sysinfo.txt
 ### Visual Studio / Rider ###
 *.csproj
 *.sln
+*.slnx
 *.suo
 *.tmp
 *.user
