@@ -28,11 +28,11 @@ Objectif: Générer des objets géométriques à l’aide de facettes triangulai
 
 ### Contenu
 - Création d’un plan à partir de triangles
-- Génération procédurale de différents objets :
+- Génération procédurale de différents objets:
   - Cylindre
   - Sphère
   - Cône
-- Paramétrisation :
+- Paramétrisation:
   - Rayon
   - Hauteur
   - Nombre de méridiens et parallèles
@@ -42,7 +42,7 @@ Résumé: Ce TP pose les bases de la représentation surfacique et de la triangu
 
 ## 📁 TP2 – Lecture et écriture de fichiers OFF
 
-Objectif: Manipuler des maillages 3D via le format **OFF**.
+Objectif: Manipuler des maillages 3D via le format `OFF`.
 
 ### Contenu
 - Lecture et parsing de fichiers `.off`
@@ -85,12 +85,12 @@ Objectif: Réduire la complexité géométrique des maillages 3D.
 - Reconstruction de la géométrie et des nouvelles faces
 
 ### Étude avec MeshLab
-- Comparaison de méthodes de simplification :
+- Comparaison de méthodes de simplification:
   - Quadric Edge Collapse Decimation
   - Clustering Decimation
-- Tests sur :
-  - Objets sans arêtes vives (ex. Bouddha)
-  - Objets avec arêtes vives (ex. maison, immeuble)
+- Tests sur:
+  - Objets sans arêtes vives
+  - Objets avec arêtes vives
 - Analyse visuelle et topologique des résultats
 
 Résumé: Ce TP permet de comprendre les enjeux de la réduction de polygones et les limites des algorithmes de simplification.
